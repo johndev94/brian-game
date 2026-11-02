@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test-results/
+*.log
+
+# Local documents and generated previews
+Job applications/
+artifacts/
+.env
+.env.*
+!.env.example
+
+# Local Sites publishing checkout
+sites/
